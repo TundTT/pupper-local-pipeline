@@ -1,0 +1,22 @@
+# Training outputs
+output_*/
+run_output.log
+Pupper_RL_EXECUTED.ipynb
+
+# Weights & Biases cache
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+Pupper_RL_PUBLIC.ipynb
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+pupperv3_mjx/build/
+pupperv3_mjx/dist/
+
+# Large design files not needed for training
+pupper_v3_description/description/pupper_v3.blend
